@@ -58,63 +58,63 @@ The table below catalogs commercial location intelligence platforms, sorted in d
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source geospatial stack represents one of the most robust, battle-tested software ecosystems available. The projects below are sorted in descending order by GitHub star count:
+The open-source geospatial stack represents one of the most robust, battle-tested software ecosystems available. The projects below are sorted in descending order by GitHub Stars_Count:
 
-1. **[Leaflet](https://github.com/Leaflet/Leaflet)** [![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers)  
+1. **[Leaflet](https://github.com/Leaflet/Leaflet)** [![GitHub_Stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers)  
    Lightweight, mobile-friendly JavaScript library for interactive web maps. The standard choice for frontend web mapping across thousands of applications.
 
-2. **[deck.gl](https://github.com/visgl/deck.gl)** [![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)  
+2. **[deck.gl](https://github.com/visgl/deck.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social&color=white)](https://github.com/visgl/deck.gl/stargazers)  
    WebGL2/WebGPU-powered framework designed for large-scale, hardware-accelerated exploratory data analysis and 3D geospatial visualization.
 
-3. **[QGIS](https://github.com/qgis/QGIS)** [![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)  
+3. **[QGIS](https://github.com/qgis/QGIS)** [![GitHub_Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white)](https://github.com/qgis/QGIS/stargazers)  
    The gold standard in open-source desktop Geographic Information Systems (GIS). Enables comprehensive viewing, editing, geospatial vector/raster analysis, and cartographic publishing.
 
-4. **[OpenLayers](https://github.com/openlayers/openlayers)** [![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)  
+4. **[OpenLayers](https://github.com/openlayers/openlayers)** [![GitHub_Stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white)](https://github.com/openlayers/openlayers/stargazers)  
    High-performance, feature-packed browser mapping library capable of rendering vector tiles, OGC services, WebGL layers, and projection transformations.
 
-5. **[kepler.gl](https://github.com/keplergl/kepler.gl)** [![GitHub stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)  
+5. **[kepler.gl](https://github.com/keplergl/kepler.gl)** [![GitHub_Stars](https://img.shields.io/github/stars/keplergl/kepler.gl?style=social&color=white)](https://github.com/keplergl/kepler.gl/stargazers)  
    Data-agnostic, high-performance web application built on deck.gl for visual exploration of million-row geospatial datasets (originally created by Uber).
 
-6. **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** [![GitHub stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)  
+6. **[MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js)** [![GitHub_Stars](https://img.shields.io/github/stars/maplibre/maplibre-gl-js?style=social&color=white)](https://github.com/maplibre/maplibre-gl-js/stargazers)  
    Open-source TypeScript web mapping library that renders vector tiles and basemaps using WebGL/WebGPU under the permissive BSD license.
 
-7. **[Turf.js](https://github.com/Turfjs/turf)** [![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers)  
+7. **[Turf.js](https://github.com/Turfjs/turf)** [![GitHub_Stars](https://img.shields.io/github/stars/Turfjs/turf?style=social&color=white)](https://github.com/Turfjs/turf/stargazers)  
    Modular spatial analysis library for JavaScript and Node.js. Performs geometric computations, convex hulls, isolines, buffering, and nearest-point calculations client-side.
 
-8. **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)** [![GitHub stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
+8. **[OSRM (Open Source Routing Machine)](https://github.com/Project-OSRM/osrm-backend)** [![GitHub_Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social&color=white)](https://github.com/Project-OSRM/osrm-backend/stargazers)  
    C++ routing engine optimized for calculating fastest routes and distance matrices on road networks using OpenStreetMap data.
 
-9. **[GraphHopper](https://github.com/graphhopper/graphhopper)** [![GitHub stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers)  
+9. **[GraphHopper](https://github.com/graphhopper/graphhopper)** [![GitHub_Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social&color=white)](https://github.com/graphhopper/graphhopper/stargazers)  
    Fast and memory-efficient Java routing engine for road networks. Supports turn-by-turn routing, isochrone generation, and multi-vehicle route optimization.
 
-10. **[H3](https://github.com/uber/h3)** [![GitHub stars](https://img.shields.io/github/stars/uber/h3?style=social&color=white)](https://github.com/uber/h3/stargazers)  
+10. **[H3](https://github.com/uber/h3)** [![GitHub_Stars](https://img.shields.io/github/stars/uber/h3?style=social&color=white)](https://github.com/uber/h3/stargazers)  
     Hexagonal hierarchical spatial index developed by Uber. Enables discrete global grid partitioning, spatial aggregation, and constant-time spatial indexing.
 
-11. **[GDAL / OGR](https://github.com/OSGeo/gdal)** [![GitHub stars](https://img.shields.io/github/stars/OSGeo/gdal?style=social&color=white)](https://github.com/OSGeo/gdal/stargazers)  
+11. **[GDAL / OGR](https://github.com/OSGeo/gdal)** [![GitHub_Stars](https://img.shields.io/github/stars/OSGeo/gdal?style=social&color=white)](https://github.com/OSGeo/gdal/stargazers)  
     The foundational C/C++ translator library for raster and vector geospatial data formats that underpins almost all modern commercial and open-source GIS software.
 
-12. **[GeoPandas](https://github.com/geopandas/geopandas)** [![GitHub stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers)  
+12. **[GeoPandas](https://github.com/geopandas/geopandas)** [![GitHub_Stars](https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white)](https://github.com/geopandas/geopandas/stargazers)  
     Python library that extends Pandas dataframes to accommodate spatial data types and perform geometric operations powered by Shapely, PyPROJ, and Fiona.
 
-13. **[Shapely](https://github.com/Toblerity/Shapely)** [![GitHub stars](https://img.shields.io/github/stars/Toblerity/Shapely?style=social&color=white)](https://github.com/Toblerity/Shapely/stargazers)  
+13. **[Shapely](https://github.com/Toblerity/Shapely)** [![GitHub_Stars](https://img.shields.io/github/stars/Toblerity/Shapely?style=social&color=white)](https://github.com/Toblerity/Shapely/stargazers)  
     Python library for manipulation and analysis of planar geometric objects, wrapping the industry-standard GEOS library.
 
-14. **[Nominatim](https://github.com/osm-search/Nominatim)** [![GitHub stars](https://img.shields.io/github/stars/osm-search/Nominatim?style=social&color=white)](https://github.com/osm-search/Nominatim/stargazers)  
+14. **[Nominatim](https://github.com/osm-search/Nominatim)** [![GitHub_Stars](https://img.shields.io/github/stars/osm-search/Nominatim?style=social&color=white)](https://github.com/osm-search/Nominatim/stargazers)  
     Open-source search and reverse geocoding engine that translates street addresses into geographic coordinates (and vice-versa) using OpenStreetMap data.
 
-15. **[GeoServer](https://github.com/geoserver/geoserver)** [![GitHub stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)  
+15. **[GeoServer](https://github.com/geoserver/geoserver)** [![GitHub_Stars](https://img.shields.io/github/stars/geoserver/geoserver?style=social&color=white)](https://github.com/geoserver/geoserver/stargazers)  
     Java-based spatial server that publishes and edits geospatial data across open standards such as WMS, WFS, WCS, and Tile Caching.
 
-16. **[Rasterio](https://github.com/rasterio/rasterio)** [![GitHub stars](https://img.shields.io/github/stars/rasterio/rasterio?style=social&color=white)](https://github.com/rasterio/rasterio/stargazers)  
+16. **[Rasterio](https://github.com/rasterio/rasterio)** [![GitHub_Stars](https://img.shields.io/github/stars/rasterio/rasterio?style=social&color=white)](https://github.com/rasterio/rasterio/stargazers)  
     Fast, Pythonic raster data access library built on GDAL for reading, writing, and processing satellite imagery, GeoTIFFs, and digital elevation models (DEMs).
 
-17. **[PostGIS](https://github.com/postgis/postgis)** [![GitHub stars](https://img.shields.io/github/stars/postgis/postgis?style=social&color=white)](https://github.com/postgis/postgis/stargazers)  
+17. **[PostGIS](https://github.com/postgis/postgis)** [![GitHub_Stars](https://img.shields.io/github/stars/postgis/postgis?style=social&color=white)](https://github.com/postgis/postgis/stargazers)  
     Spatial database extender for the PostgreSQL relational database. Provides spatial indexing (R-Tree / GiST), distance queries, and geometric analytical functions directly within SQL.
 
-18. **[Tippecanoe](https://github.com/felt/tippecanoe)** [![GitHub stars](https://img.shields.io/github/stars/felt/tippecanoe?style=social&color=white)](https://github.com/felt/tippecanoe/stargazers)  
+18. **[Tippecanoe](https://github.com/felt/tippecanoe)** [![GitHub_Stars](https://img.shields.io/github/stars/felt/tippecanoe?style=social&color=white)](https://github.com/felt/tippecanoe/stargazers)  
     High-performance tool for building vector tilesets (`.mbtiles` and `.pmtiles`) from large collections of GeoJSON features, ensuring smooth multi-scale zoom rendering.
 
-19. **[DuckDB Spatial](https://github.com/duckdb/duckdb_spatial)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb_spatial?style=social&color=white)](https://github.com/duckdb/duckdb_spatial/stargazers)  
+19. **[DuckDB Spatial](https://github.com/duckdb/duckdb_spatial)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb_spatial?style=social&color=white)](https://github.com/duckdb/duckdb_spatial/stargazers)  
     Geospatial analytical extension for DuckDB, enabling blazingly fast in-process spatial SQL queries, GeoJSON/Shapefile ingestion, and columnar spatial computations.
 
 ---
@@ -147,7 +147,7 @@ Contributions from the geospatial and data science community are warmly welcomed
    ```
 3. 📝 **Add your entry** to [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Location-Intelligence/README.md):
    - For **SaaS**: Include platform name, company scale (valuation/revenue), specific starting price, and specific free tier / trial limits.
-   - For **Open-Source**: Provide the GitHub repo link, star badge, and concise description. Place it in the correct descending star count position.
+   - For **Open-Source**: Provide the GitHub repo link, Stars_Badge, and concise description. Place it in the correct descending Stars_Count position.
 4. 🚀 **Submit a Pull Request** with a brief summary of why the tool is relevant to Location Intelligence.
 
 For comprehensive curated lists across other software domains, check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
